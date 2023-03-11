@@ -27,4 +27,4 @@ I encountered some error with */node-modules/express-serve-static* . The command
 - npm install typescript@4.1.6
 - npm install -D @types/express-serve-static-core@4.17.30
 
-apiEndpoint = `https://${g24rp1t797}.execute-api.us-east-2.amazonaws.com/dev`
+apiEndpoint = `https://g24rp1t797.execute-api.us-east-2.amazonaws.com/dev`
