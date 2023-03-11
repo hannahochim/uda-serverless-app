@@ -23,7 +23,7 @@ This is the final project in the Udacity Cloud Developer Course.
 - npm install serverless-reqvalidator-plugin
 
 ## Additional
-I encountered some error with */node-modules/express-serve-static* . The commands below resoved this:
+I encountered some error with */node-modules/express-serve-static* . The commands below resolved this:
 - npm install typescript@4.1.6
 - npm install -D @types/express-serve-static-core@4.17.30
 
